@@ -16,5 +16,5 @@ dispatch:
   - url: "api-user.nac-idn.com/*"
     service: user
 
-  - url: "api.dev-user.nac-idn.com/*"
+  - url: "api-dev-user.nac-idn.com/*"
     service: user-dev
