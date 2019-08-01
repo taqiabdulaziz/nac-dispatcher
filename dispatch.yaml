@@ -1,0 +1,20 @@
+dispatch:
+  # Front End
+  - url: "peserta.nac-idn.com/"
+    service: peserta-web
+  
+  - url: "peserta-dev.nac-idn.com/"
+    service: peserta-web-dev
+
+  - url: "panitia.nac-idn.com/"
+    service: panitia-web
+
+  - url: "panitia-dev.nac-idn.com/"
+    service: panitia-web-dev
+
+  # Back End
+  - url: "api.nac-idn.com/user"
+    service: user
+
+  - url: "api.dev.nac-idn.com/user"
+    service: user-dev
