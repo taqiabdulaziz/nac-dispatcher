@@ -13,8 +13,8 @@ dispatch:
     service: panitia-web-dev
 
   # Back End
-  - url: "api.nac-idn.com/user/*"
+  - url: "api-user.nac-idn.com/*"
     service: user
 
-  - url: "api.dev.nac-idn.com/user/*"
+  - url: "api.dev-user.nac-idn.com/*"
     service: user-dev
