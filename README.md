@@ -1,2 +1,1 @@
-# nac-dispatcher
-Google App Engine InstanceURL Dispatcher
+Google App Engine Instance URL Dispatcher
